@@ -6,14 +6,14 @@ class Program
     {
         try
         {
-            string number = "1234";
-            byte i = Convert.ToByte(number);
+            string str = "true";
+            bool i = Convert.ToBoolean(str);
             System.Console.WriteLine(i);
         }
         catch (System.Exception)
         {
 
-            System.Console.WriteLine("The number could not be converted to a byte");
+            System.Console.WriteLine("The str could not be converted to a bool");
         }
 
     }
