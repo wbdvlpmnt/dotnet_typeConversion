@@ -5,6 +5,12 @@
 - This will show up in the 'Problems' tab
 - We can cast to fix the problem
 - Use the try catch (try and auto complete) to handle exceptions
+- Keep in mind the reason we are casting is explicitly acknowledging there may be data loss
+
+
+![image](https://github.com/wbdvlpmnt/typeConversion/assets/139825457/edcccf76-383b-4089-97ed-a6fc28690f89)
+
+- We can also use conversions to handle cases where we cannot cast
 
 ### To run this project:
 
