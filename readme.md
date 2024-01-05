@@ -4,6 +4,7 @@
 - In some cases we may see data loss
 - This will show up in the 'Problems' tab
 - We can cast to fix the problem
+- Use the try catch (try and auto complete) to handle exceptions
 
 ### To run this project:
 
