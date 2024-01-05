@@ -4,8 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        int i = 1000;
-        byte b = (byte)i; // this is explicit casting
-        Console.WriteLine(b);
+        string number = "1234";
+        int i = (int)number;
     }
 }
